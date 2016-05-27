@@ -3,6 +3,5 @@
 *.jl.mem
 .DS_Store
 gitignore
-homework/homework1/homework1.jl
-homework/homework1/homework1.mdw
-data/pypico/pico3_tailmonty_v34.dat
+data/*
+!data
